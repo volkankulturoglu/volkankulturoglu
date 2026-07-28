@@ -1,16 +1,36 @@
-## Hi there 👋
+Hi, I'm Volkan 👋
+I started my career in Food Engineering, where I developed a strong interest in understanding processes and solving operational problems with data.
 
-<!--
-**volkankulturoglu/volkankulturoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+That curiosity led me to pursue a Master's in Advanced Analytics & Big Data and transition into data engineering. 
 
-Here are some ideas to get you started:
+Here you'll find my projects as I continue learning ETL pipelines, cloud technologies, and modern data engineering practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+- SQL
+- Python
+- Pandas
+- DuckDB
+- Git & GitHub
+- Jupyter Notebook
+- VS Code
+
+Currently Learning
+
+- Modern Data Platforms
+- ETL & Data Pipelines
+- Azure
+- Databricks
+
+  
+## 📂 Featured Projects
+
+- 📊 SQL Data Engineering Projects
+- ⚽ Football Player Analytics Pipeline
+
+## 🎯 Current Goals
+
+- Build practical data projects
+- Strengthen SQL and Python skills
+- Learn modern data tools and cloud technologies
+- Continuously improve through hands-on projects
