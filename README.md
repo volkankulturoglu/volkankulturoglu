@@ -6,14 +6,8 @@ That curiosity led me to pursue a Master's in Advanced Analytics & Big Data and 
 Here you'll find my projects as I continue learning ETL pipelines, cloud technologies, and modern data engineering practices.
 
 ## 🛠️ Tech Stack
+SQL • Python • Pandas • Power BI • Git
 
-- SQL
-- Python
-- Pandas
-- DuckDB
-- Git & GitHub
-- Jupyter Notebook
-- VS Code
 
 Currently Learning
 
