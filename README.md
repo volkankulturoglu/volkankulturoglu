@@ -7,16 +7,7 @@ Here you'll find projects that showcase my work across data analytics and data e
 
 ## 🛠️ Tech Stack
 SQL • Python • Pandas • Power BI • Git
-
-
-Currently Learning
-
-- Modern Data Platforms
-- ETL & Data Pipelines
-- Azure
-- Databricks
-
-  
+ 
 ## 📂 Featured Projects
 
 - 📊 SQL Data Engineering Projects
