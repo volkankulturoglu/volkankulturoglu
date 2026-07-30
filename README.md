@@ -1,4 +1,5 @@
-Hi, I'm Volkan 👋
+#Hi, I'm Volkan 👋
+
 I started my career in Food Engineering, where I developed a strong interest in understanding processes and solving operational problems with data.
 
 That curiosity led me to pursue a Master's in Advanced Analytics & Big Data.
