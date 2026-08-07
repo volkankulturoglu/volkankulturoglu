@@ -1,22 +1,30 @@
 # Hi, I'm Volkan 👋
 
-I started my career in Food Engineering, where I developed a strong interest in understanding processes and solving operational problems with data.
+I'm a data professional with a background in Food Engineering and a Master's degree in Advanced Analytics & Big Data.
 
-That curiosity led me to pursue a Master's in Advanced Analytics & Big Data.
+My interest in data grew from seeing how operational and production data could be used to understand processes, solve problems, and support better decisions. Since then, I've been building hands-on experience across data analytics, business intelligence, and data engineering.
 
-Here you'll find projects that showcase my work across data analytics and data engineering, while exploring modern data platforms, cloud technologies, and real-world data workflows.
+Here you'll find projects where I work with real-world datasets — from data cleaning and analysis to data modeling, ETL workflows, and interactive dashboards.
 
 ## 🛠️ Tech Stack
-SQL • Python • Pandas • NumPy • Matplotlib • Power BI • Git • Jupyter • VsCode
- 
+
+SQL • Python • R • Power BI • Excel • Pandas • NumPy • Matplotlib • Git • GitHub • Jupyter • VS Code
+
 ## 📂 Featured Projects
 
-- 📊 SQL Data Engineering Projects
-- ⚽ Football Player Analytics Pipeline
+- ☕ **[Sally's Coffee — R & Power BI Analytics](https://github.com/volkankulturoglu/Sallys-Coffee-R-Power-BI-Analytics)**  
+  Business analytics project combining R-based data analysis with an interactive Power BI dashboard.
 
-## 🎯 Current Goals
+- 📊 **[SQL Data Engineering Projects](https://github.com/volkankulturoglu/SQL_Data_Engineering_Projects)**  
+  SQL-based projects covering data warehouse design, star schema modeling, analytical data marts, ETL workflows, and incremental loading.
 
-- Build practical data projects
-- Strengthen SQL and Python skills
-- Learn modern data tools and cloud technologies
-- Continuously improve through hands-on projects
+- ⚽ **[Football Player Analytics Pipeline](https://github.com/volkankulturoglu/Football_Player_Analytics)**  
+  Modular Python ETL pipeline for data cleaning, transformation, feature engineering, and exploratory analysis.
+
+## 🎯 Current Focus
+
+- Data analytics, business intelligence, and data engineering
+- Building end-to-end data projects
+- Data modeling and analytical data platforms
+- Power BI and data visualization
+- Modern cloud and data engineering technologies
