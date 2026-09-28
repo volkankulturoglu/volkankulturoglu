@@ -22,7 +22,7 @@ SQL-based data engineering projects covering **data warehouse design, star schem
 
 ### ⚽ [Football Player Analytics Pipeline](https://github.com/volkankulturoglu/Football_Player_Analytics)
 
-Modular Python ETL pipeline for **data cleaning, transformation, feature engineering, and exploratory analysis** across multi-season football datasets.
+Modular Python ETL pipeline for **data cleaning, transformation, feature engineering, and exploratory analysis** using FIFA player data.
 
 ### ☕ [Sally's Coffee — R & Power BI Analytics](https://github.com/volkankulturoglu/Sallys-Coffee-R-Power-BI-Analytics)
 
